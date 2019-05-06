@@ -1,2 +1,2 @@
 # Python
-Shorted_Array
+Sorted_Array
